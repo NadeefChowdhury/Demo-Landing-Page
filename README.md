@@ -1,6 +1,6 @@
 # Demo-Landing-Page
 Demo landing page using React
-#Installations
+# Installations
 React, React simple sidenav, React slick
 
 
